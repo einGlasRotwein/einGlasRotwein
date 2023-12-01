@@ -5,7 +5,7 @@ I'm mainly interested in the influence of reward on memory, but also investigate
 
 My favourite language is `R`, but since I run a lot of online studies, I also know a bit of web stuff like JavaScript (and [jsPsych](https://www.jspsych.org/latest/)), PHP, SQL, and the odd bits of html and css.
 
-You can find me on <a rel="me" href="https://fosstodon.org/@juli_nagel">Mastodon</a>.
+You can find me on <a rel="me" href="https://fosstodon.org/@juli_nagel">Mastodon</a> or <a href="https://bsky.app/profile/juli-nagel.bsky.social">Bluesky</a>.
 
 <!---
 einGlasRotwein/einGlasRotwein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
